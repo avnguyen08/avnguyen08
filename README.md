@@ -1,4 +1,4 @@
-- 👋 Hello I'm Aaron Nguyen! I'm currently working as an embedded systems engineer and have worked two different Research positions in the past.
+- 👋 Hello I'm Aaron Nguyen! I'm currently working as an embedded systems engineer and have worked at two different research assistant positions in the past.
 - 🌱 I’m currently interested in the embedded development field both on the software and hardware side.
 - Software topics I'm pursuing and learning: FreeRTOS, Git, Jira. Python and C# in my backlog (for now)
 - Hardware topics I'm pursuing and learning: Schematic and PCB design (KiCAD) and Circuit Simulation(LTSPICE)
